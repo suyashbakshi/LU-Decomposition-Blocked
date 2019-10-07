@@ -109,7 +109,7 @@ void LU_Decomposition(){
 	    {
 	        col_func(i, j);
 	     
-          for(int k=i+1; k<num_blocks; k++) 
+          	for(int k=i+1; k<num_blocks; k++) 
 	        {
 	            inner_func(i, j, k);
 	        }

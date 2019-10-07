@@ -99,7 +99,7 @@ void display(){
 void LU_Decomposition(){
 	for(int i=0; i<num_blocks; i++) {
 
-    	diag_func(i);
+    	    diag_func(i);
 	    
 	    for(int j=i+1; j<num_blocks; j++) {
 	        row_func(i, j);

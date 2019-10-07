@@ -8,11 +8,10 @@ The code structure of "LU_Decomposition()" is taken from NERSC website example h
 Implementation of row_func(), col_func(), inner_func() and diag_func() was implemented by me (Suyash Bakshi).
 
 References from NERSC website:
-
+```
 """
 ```
 Starting with the serial version of LU, shown below, we can see that there is a division with each diagonal element on every element in the rest of the row, and then the changes in this column are then propagated to each row after.
-```
 ```
 for(int i=0; i<size; i++) {
     for(int j=i+1; j<size; j++) {

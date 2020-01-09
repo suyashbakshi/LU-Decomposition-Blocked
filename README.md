@@ -1,5 +1,5 @@
 # LU-Decomposition-Blocked
-Implementation of blocked LU decomposition's of a matrix. 
+Implementation of blocked LU decomposition of a matrix. 
 Feel free to use/modify/distribute the code.
 A star wouldn't go amiss if this implementation proved helpful/saved some of your valuable time. :)
 

@@ -4,6 +4,7 @@ Feel free to use/modify/distribute the code.
 A star wouldn't go amiss if this implementation proved helpful/saved some of your valuable time. :)
 
 The code structure of "LU_Decomposition()" is taken from NERSC website example here: https://www.nersc.gov/users/software/programming-models/openmp/openmp-tasking/openmp-tasking-example-lu/
+(Please refer to nesc website for any citation that might be required)
 
 Implementation of row_func(), col_func(), inner_func() and diag_func() was done by me (Suyash Bakshi).
 

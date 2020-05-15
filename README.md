@@ -1,5 +1,5 @@
 # LU-Decomposition-Blocked
-Implementation of blocked LU decomposition of a matrix. 
+A barebone implementation of blocked LU decomposition of a matrix. You can use it as a starting point for openMP, MPI or any other parallelization framework. 
 Feel free to use/modify/distribute the code.
 A star wouldn't go amiss if this implementation proved helpful/saved some of your valuable time. :)
 
